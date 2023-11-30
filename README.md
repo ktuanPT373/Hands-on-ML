@@ -1,3 +1,3 @@
 # Hands-on-ML
 
-# Very first steps
+Very first steps
